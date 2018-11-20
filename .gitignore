@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/OCR/v15
+/OCR.ClientConsole/obj/Debug
+/OCR.ClientConsole/bin/Debug
+/OCR.Core/obj/Debug
+/OCR.Core/bin/Debug
+/OCR.Core.Tests/obj/Debug
+/OCR.Core.Tests/bin/Debug
+/OCR.DigitConversion/bin/Debug
+/OCR.DigitConversion/obj/Debug
+/OCR.DigitConversion.Core/bin/Debug
+/OCR.DigitConversion.Core/obj/Debug
+/OCR.InputScanning/bin/Debug
+/OCR.InputScanning/obj/Debug
+/OCR.InputValidation/obj/Debug
+/OCR.InputValidation/bin/Debug
+/OCR.InputValidation.Tests/obj/Debug
+/OCR.InputValidation.Tests/bin/Debug
+/OCR.OuputEvaluation.Core/obj/Debug
+/OCR.OuputEvaluation.Core/bin/Debug
+/OCR.OutputEvaluation/obj/Debug
+/OCR.OutputEvaluation/bin/Debug
+/OCR.ClientConsole.Tests/obj/Debug
+/OCR.ClientConsole.Tests/bin/Debug
